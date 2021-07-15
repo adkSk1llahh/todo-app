@@ -4,9 +4,6 @@ This is a sample react todo app.
 This sample app is my first project in React.
 
 
-Check the demo hosted on heroku 
-
-
 ## Instructions
 
 First clone this repository.
