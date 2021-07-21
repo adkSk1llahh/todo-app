@@ -24,6 +24,16 @@ function App() {
     setLists(newLists);
   };
 
+  const onEditListTitle = (id, title) => {
+    const newLists = lists.map((item) => {
+      if (item.id === id) {
+        item.name = title;
+      }
+      return item;
+    });
+    setLists(newLists);
+  };
+
   return (
     <div className="todo">
       <div className="todo__sidebar">
@@ -68,7 +78,11 @@ function App() {
         )}
         <AddList onAdd={onAddList} colors={colors} />
       </div>
-      <div className="todo__tasks">{lists && activeItem && <Tasks list={activeItem} />}</div>
+      <div className="todo__tasks">
+        {lists && activeItem && (
+          <Tasks list={activeItem} onEditTitle={onEditListTitle} />
+        )}
+      </div>
     </div>
   );
 }
