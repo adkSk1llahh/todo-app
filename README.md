@@ -1,8 +1,6 @@
 # React Todo App
 
-This is a sample react todo app.
-This sample app is my first project in React.
-
+Archakov's course project | sample react todo app
 
 ## Instructions
 
