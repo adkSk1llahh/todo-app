@@ -6,10 +6,7 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-<<<<<<< HEAD
     "axios": "^0.21.1",
-=======
->>>>>>> 8ea5311b92f0343fd372e8101f64f3253577027a
     "classnames": "^2.3.1",
     "node-sass": "4.14.1",
     "react": "^17.0.2",
@@ -22,12 +19,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-<<<<<<< HEAD
     "eject": "react-scripts eject",
     "fake-json": "json-server ./src/assets/db.json --watch --port 3001"
-=======
-    "eject": "react-scripts eject"
->>>>>>> 8ea5311b92f0343fd372e8101f64f3253577027a
   },
   "eslintConfig": {
     "extends": [

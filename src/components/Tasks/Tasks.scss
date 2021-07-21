@@ -32,14 +32,24 @@
         &-row{
             display: flex;
             align-items: center;
-<<<<<<< HEAD
             margin-bottom: 15px;
-=======
->>>>>>> 8ea5311b92f0343fd372e8101f64f3253577027a
 
             p{
                 margin-left: 15px;
             }
+            input{
+                border: none;
+                margin-left: 10px;
+            }
+        }
+        h2{
+            font-family: montserrat;
+            font-weight: bold;
+            font-size: 22px;
+            color: #c9d1d3;
+            position: absolute;
+            top: 50%;
+            left: 50%;
         }
     }
 

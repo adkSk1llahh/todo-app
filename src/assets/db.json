@@ -19,24 +19,6 @@
       "id": 4,
       "name": "Книги",
       "colorId": 2
-    },
-    {
-      "id": 5,
-      "name": "Личное",
-      "colorId": 1
-<<<<<<< HEAD
-=======
-    },
-    {
-      "name": "Спорт",
-      "colorId": 3,
-      "id": 6
-    },
-    {
-      "name": "Курс по ReactJS ToDo",
-      "colorId": 7,
-      "id": 7
->>>>>>> 8ea5311b92f0343fd372e8101f64f3253577027a
     }
   ],
   "tasks": [
@@ -105,33 +87,6 @@
       "text": "222",
       "completed": true,
       "id": 12
-<<<<<<< HEAD
-=======
-    },
-    {
-      "listId": 7,
-      "text": "Сделали сайдбар",
-      "completed": true,
-      "id": 15
-    },
-    {
-      "listId": 7,
-      "text": "Сделали список задач",
-      "completed": true,
-      "id": 16
-    },
-    {
-      "listId": 7,
-      "text": "Сделали удаление и редактирование задач и списков",
-      "completed": true,
-      "id": 17
-    },
-    {
-      "listId": 8,
-      "text": "tttt",
-      "completed": false,
-      "id": 18
->>>>>>> 8ea5311b92f0343fd372e8101f64f3253577027a
     }
   ],
   "colors": [
@@ -176,8 +131,4 @@
       "name": "red"
     }
   ]
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 8ea5311b92f0343fd372e8101f64f3253577027a
