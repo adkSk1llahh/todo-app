@@ -11,17 +11,17 @@ $ git clone https://github.com/adkSk1llahh/todo-app.git
 
 ### 2 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
 ```bash
-$ npm install # or yarn
+$ yarn install
 ```
 
 ### 3 Run JSON-SERVER
 ```bash
-$ npm fake-json
+$ yarn fake-json
 ```
 
 ### 4 Run app
 ```bash
-$ npm start # or yarn start
+$ yarn start
 ```
 
 
