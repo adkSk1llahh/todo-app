@@ -4,17 +4,24 @@ Archakov's course project | sample react todo app
 
 ## Instructions
 
-First clone this repository.
+### 1 First clone this repository.
 ```bash
 $ git clone https://github.com/adkSk1llahh/todo-app.git 
 ```
 
-Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
+### 2 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
 ```bash
-$ npm install # or yarn
+$ yarn install
 ```
 
-Run it
+### 3 Run JSON-SERVER
 ```bash
-$ npm start # or yarn start
+$ yarn fake-json
 ```
+
+### 4 Run app
+```bash
+$ yarn start
+```
+
+
